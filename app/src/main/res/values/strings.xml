@@ -1,0 +1,18 @@
+<resources>
+        <string name="txtViewpage2">
+ViewPager merupakan salah satu widget Android yang dapat
+            digunakan untuk mengelola beberapa fragments Dengan adanya ViewPager,
+            suatu activity memiliki kendali terhadap fragment apa yang sedang ditampilkan
+            melalui ViewPager (umumnya untuk melakukan scrolling activity ke samping dan
+            menampilkan fragment yang sesuai melalui navbar).
+    </string>
+    <string name="txtViewpage3">
+        Sensor ini berguna untuk menentukan posisi pengguna dari hasil kalkulasi
+        trigonometri berdasarkan sinyal-sinyal dari satelit terdekat yang berhasil diterima smartphone.
+    </string>
+    <string name="app_name">Google_Maps_API_10120038</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
